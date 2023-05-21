@@ -9,7 +9,7 @@ public class Creature : MonoBehaviour
     public bool isUser = false;
     public bool canEat = true;
     public float viewDistance = 20;
-    public float size = 5.0f;
+    public float size = 1.0f;
     public float energy = 20;
     public float energyGained = 10;
     public float reproductionEnergyGained = 1;
